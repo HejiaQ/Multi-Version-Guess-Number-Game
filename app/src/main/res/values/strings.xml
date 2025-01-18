@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Guess Number Game Traditional UI</string>
+    <string name="button">Submit</string>
+    <string name="text_placeholder">Enter your guess here</string>
+    <string name="instruction">Guess a number between 1 and 100!</string>
+    <string name="instruction_greater">The answer is greater than what you guessed!</string>
+    <string name="instruction_less">The answer is less than what you guessed!</string>
+    <string name="success">Success!</string>
+    <string name="fail">The correct answer is %1$d.You have no attempt left, please click on reset to start a new game</string>
+    <string name="invalid">Please enter a non-empty input</string>
+    <string name="invalid_range">Please enter an input between 1 and 100 (inclusive)</string>
+    <string name="reset">Reset</string>
+    <string name="hint">Hint</string>
+
+
+    <string name="hint_even">This number is even</string>
+    <string name="hint_odd">This number is odd</string>
+    <string name="hint_multiple_of_ten">This number is a multiple of 10</string>
+    <string name="hint_not_multiple_of_ten">This number is not a multiple of 10</string>
+    <string name="last_digit">The last number of this digit is: %1$d </string>
+    <string name="empty_hint">Oh no! Empty hint :(</string>
+
+    <string name="start_classic_game">Start Classic Game</string>
+    <string name="start_competition_mode">Human VS Computer</string>
+    <string name="start_human_competition_mode">Human VS Human</string>
+    <string name="provide_answer_placeholder">Enter a number between 1 to 100 for computer to guess</string>
+    <string name="computer_answer">The computer\'s answer is %1$d </string>
+
+    <string name="result_both_success"> Wow, your component and you both guess correctly! </string>
+    <string name="result_success">Congrats! You win!</string>
+    <string name="result_lose">Oh no...Computer wins...</string>
+
+    <string name="client_id">442617349425-ci3l1tk59erhh368tkouk80vatg8d7ft.apps.googleusercontent.com</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="logout">logout</string>
+
+
+</resources>

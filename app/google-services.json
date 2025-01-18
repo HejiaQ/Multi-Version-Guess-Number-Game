@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442617349425",
+    "project_id": "guessnumbermultimode",
+    "storage_bucket": "guessnumbermultimode.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442617349425:android:cb003ae9e1e206ec3b1c10",
+        "android_client_info": {
+          "package_name": "com.example.guessnumbergametraditionalui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442617349425-qjqsd4m82kfbra6l72pbbjne6idut4pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guessnumbergametraditionalui",
+            "certificate_hash": "10bc64275098541430543ca4c853590cd093869c"
+          }
+        },
+        {
+          "client_id": "442617349425-71de5pj0bupg095n0gqpi3erva2chveh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mG047h41OQOsdU-OpUc15-GNJGHl9NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442617349425-71de5pj0bupg095n0gqpi3erva2chveh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

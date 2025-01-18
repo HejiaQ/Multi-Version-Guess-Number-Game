@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.example.guessnumbergametraditionalui",
+      "sha256_cert_fingerprints" : [
+        "8A:4B:D3:F1:00:0A:CB:AF:86:8C:8A:69:D6:2F:33:5A:92:B8:FC:C6:F4:A8:54:CD:75:6A:6C:46:B6:1C:71:46"
+      ]
+    }
+  }
+]
