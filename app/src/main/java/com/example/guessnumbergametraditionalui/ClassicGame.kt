@@ -85,7 +85,7 @@ open class ClassicGame : AppCompatActivity() {
     }
 
     open fun submitAnswer() {
-        if(questionGuide.text.toString() != getString(R.string.success) && attempt == 0) {
+        if(questionGuide.text.toString() != getString(R.string.success) && attempt == 1) {
             questionGuide.text = getString(R.string.fail, correctAnswer)
             return
         }

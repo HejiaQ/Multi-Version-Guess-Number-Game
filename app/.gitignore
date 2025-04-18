@@ -1,3 +1,4 @@
 /build
 /src/androidTest/assets/screenshots/34-1080x2400@420dp-en_US/MainActivityScreenshotTest_default.png
 /src/androidTest/assets/screenshots/34-1080x2400@420dp-en_US/MainActivityScreenshotTest_default.diff.png
+/src/androidTest/assets/screenshots/34-1080x2400@420dp-en_US/MainActivityScreenshotTest_login.png
